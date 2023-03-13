@@ -56,8 +56,8 @@ public class LinkedList {
 		
 	}
 	
-	public Node removeLast() {
 	
+	public Node removeLast() {
 	 // when linkedList does not contain any node
 	 if (length == 0) return null;
 	 
@@ -81,7 +81,7 @@ public class LinkedList {
 	 return temp;
 	}
 	
-	
+
 
 
 }
